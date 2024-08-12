@@ -1,0 +1,8 @@
+Sfore
+	ObjectClass:
+	Containment:
+	Danger:
+	Identifications:
+	Details: When a subject is close (~5m) to the anomaly for too long(~10s)
+	subject is teleported to a unknown dimension, where they must escape a small maze. 
+	Too much time spent in the maze results in loss of consciousness and eventually death.

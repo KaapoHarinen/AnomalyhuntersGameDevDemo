@@ -1,0 +1,2 @@
+Type1Pill
+	- Pill where you can see the anomaly and be immune to it for a set amount of time 
